@@ -1,2 +1,2 @@
 # Signal Processing
- This repository contains both descriptions of the final project and my codes for Signal Processing course held at the University of Tehran.
+This repository contains codes for the Shazam app which was the final project of the Signal Processing course held at the University of Tehran.
